@@ -1,3 +1,2 @@
 pic1.txt
 pic2.txt
-pic3.txt
